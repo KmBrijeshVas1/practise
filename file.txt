@@ -1,2 +1,2 @@
-Hello from main branch
+Hello from MAIN branch updated
 Second line from main
